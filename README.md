@@ -9,7 +9,7 @@
 
 
 
-一共有四个文件 train.csv test.csv train.py test.py 
+一共有六个文件 train.csv、test.csv、train.py、test.py、submission.csv、weight.npy 
 
 三、文件介绍：
 
