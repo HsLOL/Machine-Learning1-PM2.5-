@@ -1,8 +1,17 @@
+一、项目名称：
+
+
+
 李宏毅机器学习作业1（Linear Regression）预测PM2.5
+
+二、内容：
+
+
+
 
 一共有四个文件 train.csv test.csv train.py test.py 
 
-文件介绍：
+三、文件介绍：
 
 
 1、train.csv、test.csv是从kaggle网站下载的数据文件
